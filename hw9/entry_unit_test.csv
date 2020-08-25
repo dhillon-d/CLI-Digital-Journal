@@ -1,0 +1,6 @@
+"id","text","completed","date","priority","category"
+"1","first","true","11/11/1111","1","first entry - will get completed set to true"
+"2","second","false","11/11/1111","2","second - will not get completed set to true"
+"3","third","true","11/11/1111","3","third - will get completed set to true"
+"4","fourth","false","11/11/1111","3","fourth - will not get completed set to true"
+"5","new entry :)","false","11/11/1111","?","my category"
